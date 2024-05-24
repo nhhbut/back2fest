@@ -33,7 +33,7 @@ nav li a {
     font-size: 18px;
     text-transform: uppercase;
     padding: 0px 30px;
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-family:'Knewave', cursive;
 }
@@ -104,7 +104,7 @@ nav li a:hover {
 }
 
 a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
   }
   .pg-footer {
@@ -228,7 +228,7 @@ a {
       text-decoration: none;
   }
   .footer-call-to-action-link-wrapper a {
-      color: #fff;
+      color: #ffffff;
       text-decoration: none;
   }
   

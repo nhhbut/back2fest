@@ -48,7 +48,7 @@ nav li a:hover {
 /* Styles pour la bannière */
 .banner {
     position: relative;
-    background: url('/img/1200x680_booba.webp') no-repeat center center fixed; 
+    background: url('img/1200x680_booba.webp') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

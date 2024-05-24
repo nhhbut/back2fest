@@ -33,7 +33,7 @@ nav li a {
   font-size: 18px;
   text-transform: uppercase;
   padding: 0px 30px;
-  color: white;
+  color: rgb(0, 0, 0);
   text-decoration: none;
   font-family:'Knewave', cursive;
 }
@@ -45,7 +45,7 @@ nav li a:hover {
 
 .banner {
   position: relative;
-  background: url('/RED-VALLEY-FESTIVAL-2024-voici-la-programmation-Info-e-Biglietti.jpg') no-repeat center center fixed; 
+  background: url('../RED-VALLEY-FESTIVAL-2024-voici-la-programmation-Info-e-Biglietti.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

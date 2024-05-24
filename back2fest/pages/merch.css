@@ -45,7 +45,7 @@ nav li a:hover {
 
 .banner {
     position: relative;
-    background: url('/img/Amusement\ Cabriolet\ Concert.jpg') no-repeat center center fixed; 
+    background: url('../img/Amusement\ Cabriolet\ Concert.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -171,6 +171,8 @@ a {
   .footer {
       background-color: #C15A5A;
       color: #fff;
+      max-height:15%;
+      position: down;
   }
   .footer-wave-svg {
       background-color: transparent;
@@ -193,7 +195,7 @@ a {
   }
   
   .footer-content-column {
-      box-sizing: border-box;
+      box-sizing: auto;
       float: left;
       padding-left: 15px;
       padding-right: 15px;
@@ -311,12 +313,12 @@ a {
       fill: #F5E5CB;
   }
   
-  .footer-social-link.linkedin {
-      height: 26px;
-      left: 3px;
-      top: 11px;
-      width: 26px;
-  }
+.footer-social-link.linkedin {
+    height: 52px;
+    left: 0;
+    top: 11px;
+    width: 52px;
+}
   
   .footer-social-link {
       display: block;
@@ -348,24 +350,24 @@ a {
   }
   
   .footer-social-link.twitter {
-      height: 28px;
-      left: 62px;
+      height: 49px;
+      left: 61px;
       top: 3px;
-      width: 28px;
+      width: 49px;
   }
   
   .footer-social-link.youtube {
-      height: 24px;
-      left: 123px;
+      height: 50px;
+      left: 119px;
       top: 12px;
-      width: 24px;
+      width: 50px;
   }
   
   .footer-social-link.github {
-      height: 34px;
-      left: 172px;
+      height: 56px;
+      left: 171px;
       top: 7px;
-      width: 34px;
+      width: 56px;
   }
   
   .footer-copyright {
@@ -464,3 +466,5 @@ a {
         width: 49.99%;
     } */
   }
+
+
